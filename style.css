@@ -12,6 +12,9 @@ body {
 
 nav {
     font-family: 'Ubuntu', sans-serif;
+    position:fixed;
+    top: 0px;
+    width: 100%;
 }
 
 nav ul {
@@ -45,7 +48,7 @@ nav ul li {
     background-color: black;
     color: white;
     font-family: 'Varela Round', sans-serif;
-    margin: 23px auto;
+    margin: 50px auto;
     width: 70%;
     padding: 15px;
     border-radius: 12px;
